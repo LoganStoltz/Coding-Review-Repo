@@ -2,7 +2,7 @@
 public class main {
     public static void main(String[] args) {
 
-        // POLYMORPHISM: Creating objects using both superclass and subclass references.
+        // POLYMORPHISM: Creating objects using both parent class and child class references.
         // Animal references (dog1, bunny1) demonstrate polymorphism - the same reference type
         // can hold different object types, allowing for flexible and extensible code.
         Animal dog1 = new Dog("Buddy", 3);
