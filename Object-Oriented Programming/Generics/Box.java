@@ -3,6 +3,7 @@
 // when an instance of Box is created. This allows for type safety and code reusability.
 // T stands for "Type", but I like to think of it as 'Thing', we can put any 'Thing' in the box!
 
+// GENERIC CLASS EXAMPLE
 public class Box<T> {   // Generic class with type parameter T
     T item; // The item of type T that the box will hold (Generic variable)
 
